@@ -45,18 +45,33 @@ The UI clone uses the following fonts (applied via CSS or default system fonts i
 
 
 
-![Screenshot Home View](Logo&imgs\Screenshot 2026-02-07 054215.png)  
+![Screenshot Home View](Logo&imgs/Homepage_Screenshot_1.png)  
 *Caption: Main UI cloned view*
 
-![Screenshot Buttons](Logo&imgs\Screenshot 2026-02-07 054230.png)  
-*Caption: Recreated button styles*
 
-> To add your own screenshots, save them under `Logo&imgs/` and reference them like above.
+---
+## Live Demo Link 
+Vercel - https://cursor-ui-clone-assigment.vercel.app/
 
 ---
 
-## 🚀 How to View the Project
+## 🚀 How to View the Project on your system
 
 1. **Clone this repository**
    ```bash
    git clone https://github.com/rohan2248/Cursor-Ui-clone-Assigment.git
+   ```
+2. **Open index.html in a browser**
+
+   You can simply double-click the file
+   Or serve it using a local server like Live Server (VS Code) for better development experience.
+
+   ---
+
+   ## File Structure
+   Cursor-Ui-clone-Assigment/
+├── Logo&imgs/            ← Screenshots or image assets
+├── index.html            ← Main HTML file
+├── style.css             ← CSS styles
+├── README.md             ← This file
+
